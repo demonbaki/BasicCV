@@ -1,0 +1,15 @@
+.baki{
+    width: 250px;
+}
+.space{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+body{
+    font-family: 'Nova Mono', monospace;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ropa Sans', sans-serif;
+background-color: rgba(199, 199, 199, 0.875);
+}
